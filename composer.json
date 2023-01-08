@@ -1,0 +1,16 @@
+{
+    "name": "perlexed/codewars",
+    "description": "Solutions for Codewars' katas",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "perlexed",
+            "email": "perlexed@gmail.com"
+        }
+    ],
+  "require": {
+    "ext-json": "*"
+  }
+}
